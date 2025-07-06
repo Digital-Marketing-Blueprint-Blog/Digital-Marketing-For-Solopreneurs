@@ -161,6 +161,6 @@ Astra and GeneratePress are popular for their flexibility, speed, and wide suppo
 4. Can I revert changes if I make a mistake?
 Yes. Use version control (Git), backups, or plugins like UpdraftPlus to restore previous states.
 
-5. Is it worth hiring a developer or <a href="https://inetmarketer.com/diy-seo-for-small-businesses/">diy search engine optimization</a> myself?
+5. Is it worth hiring a developer or myself?
 If your changes are complex (e.g., advanced logic, custom APIs), hiring a developer saves time and ensures clean, secure code.
-Check out more guides at: https://inetmarketer.com
+Check out more digital marketing guides at: https://inetmarketer.com
